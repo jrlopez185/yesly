@@ -1,0 +1,85 @@
+.Welcome{
+    width: 100%;
+    height: 65px;
+    background-color: #FF9966 ;
+    opacity: 80%;
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+
+.Tl{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive;
+}
+
+.contenedorDos{
+
+}
+
+.Frase{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive;
+}
+
+.mt{
+    margin: 0;
+    position: relative;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    top:420px;
+    position: absolute;
+    left: 670px;
+    font-size: 26px;
+}
+
+.karen{
+    width: 120px;
+    height: 120px;
+    background-image: url(https://github.com/jrlopez185/imagenes-suvir/blob/main/Karen.jpeg?raw=true);
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute;
+    top: 200px;
+    left: 470px;
+}
+
+.jaydi{
+    width: 120px;
+    height: 120px;
+    background-image: url(https://github.com/jrlopez185/imagenes-suvir/blob/main/Jaydi.jpeg?raw=true);
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute; 
+    top: 200px;
+    left: 630px;
+}
+
+.mayra{
+    width: 120px;
+    height: 120px;
+    background-image: url(https://github.com/jrlopez185/imagenes-suvir/blob/main/Mayra.jpeg?raw=true);
+    background-size: cover;
+    border-radius: 50%; 
+    position: absolute;
+    top: 200px;
+    left: 780px; 
+}
+
+.nu{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin: 0;
+    top: 420px;
+    left: 30px;
+}
