@@ -1,0 +1,260 @@
+.Welcome{
+    width: 100%;
+    height: 65px;
+    background-color: #FF9966 ;
+    opacity: 80%;
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+
+.Tl{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive;
+}
+
+.contenedorDos{
+
+}
+
+.Frase{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive;
+}
+
+.mt{
+    margin: 0;
+    position: relative;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    top:420px;
+    position: absolute;
+    left: 670px;
+    font-size: 26px;
+}
+
+.karen{
+    width: 120px;
+    height: 120px;
+    background-image: url(https://github.com/jrlopez185/imagenes-suvir/blob/main/Karen.jpeg?raw=true);
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute;
+    top: 200px;
+    left: 470px;
+}
+
+.jaydi{
+    width: 120px;
+    height: 120px;
+    background-image: url(https://github.com/jrlopez185/imagenes-suvir/blob/main/Jaydi.jpeg?raw=true);
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute; 
+    top: 200px;
+    left: 630px;
+}
+
+.mayra{
+    width: 120px;
+    height: 120px;
+    background-image: url(https://github.com/jrlopez185/imagenes-suvir/blob/main/Mayra.jpeg?raw=true);
+    background-size: cover;
+    border-radius: 50%; 
+    position: absolute;
+    top: 200px;
+    left: 780px; 
+}
+
+.nu{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin: 0;
+    top: 420px;
+    left: 30px;
+}
+
+.po{
+    margin: 0;
+    position: absolute;
+    top: 800px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    text-align: center;
+    left: 290px;
+    font-size: 25px;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+}
+
+table{
+    position: absolute;
+    left: 500px;
+    top: 930px;
+}
+
+ul{
+    position: absolute;
+    top: 930px;
+    left: 80px;
+}
+
+.uno{
+    background-color: #ACEA4E;
+}
+
+/*td{
+    background-color: #2FDB92;
+}*/
+
+.nv{
+    position: absolute;
+    top: 1200px;
+    left: 580px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    font-size: 25px;
+    
+}
+
+.trDos{
+    background-color: #ACEA4E;
+}
+
+.tablaDos{
+    position: absolute;
+    top: 1290px;
+    left: 350px;
+}
+
+.nv_2{
+    position: absolute;
+    top: 1450px;
+    left: 530px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    font-size: 25px;
+    
+}
+
+.tablaTres{
+    position: absolute;
+    top: 1540px;
+    left: 390px;
+}
+
+.trTres{
+    background-color: #ACEA4E;
+}
+
+.nv_3{
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    font-size: 25px; 
+}
+
+.imagenDos{
+    top: 90px;
+    position: absolute;
+}
+
+.defiDos{
+    margin: 0;
+    position: relative;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    top:95px;
+    position: absolute;
+    left: 580px;
+    font-size: 26px;
+}
+
+.nv_4{
+    position: absolute;
+    top: 500px;
+    left: 570px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    font-size: 25px;
+    
+}
+
+.tablaCuatro{
+    position: absolute;
+    top: 590px;
+    left: 5px;
+}
+
+.trCuatro{
+    background-color: #ACEA4E;
+}
+
+.linkUno{
+    margin: 0;
+    position: absolute;
+    text-decoration: none;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    font-size: 15px;
+    top: 30px;
+    left: 980px;
+    color: black;
+}
+
+.linkDos{
+    margin: 0;
+    position: absolute;
+    text-decoration: none;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    font-size: 15px;
+    top: 30px;
+    left: 1100px;
+    color: black;
+}
+
+.grupoA{
+    width: 400px;
+    position: absolute;
+    top: 100px;
+    left: 140px;
+}
+
+.ali{
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+
+.par{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Supermercado One', cursive; 
+    top:95px;
+    position: absolute;
+    left: 540px;
+    font-size: 26px;
+}
+
+.tablaCinco{
+    position: absolute;
+    top: 500px;
+    left: 230px;
+}
